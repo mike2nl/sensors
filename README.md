@@ -8,7 +8,7 @@ an evoirement in there we live and work.
 - Think about a hospital.
 - Think about cars, planes, satellites or the space flights.
 - Think about your credit card, finger and eye scanner.
-- They are always and we use them very often.
+- They are everywhere and we use them on daily base.
 
 There are a lot of very good projects around the world and here on github and
 they need external information to do something with that. Data collection,
